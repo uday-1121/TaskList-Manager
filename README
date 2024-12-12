@@ -20,7 +20,7 @@ TaskList Manager is a simple and efficient web-based application designed to hel
 
 - **Node.js**: Server-side JavaScript runtime.
 - **Express.js**: Framework for building RESTful APIs.
-- **Database (Optional)**: A database (e.g., MongoDB, SQLite) can be used for persistent task storage.
+- **Database**: MongoDB is used for persistent task storage.
 
 ## Getting Started
 
